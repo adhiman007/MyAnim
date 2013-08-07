@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="titletextcolor">#ccffcc</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_trans">#e0000000</color>
+    <color name="half_trans2">#e0ffffff</color>
+    <color name="blue">#286398</color>
+    <color name="blue_conference">#1f8dcd</color>
+    <color name="grey">#535353</color>
+    <color name="listView_item_bg_p">#b5b5b5</color>
+    <color name="listView_item_bg">#eeeeee</color>
+    <color name="transp">#00000000</color>
+    <color name="delegate_bg">#E6E6E6</color>
+    <color name="sousuo_bg">#D3D3D3</color>
+    <color name="common">#eeeeee</color>
+    <color name="gold">#b89766</color>
+    <color name="txt_second_name_color">#b5b5b5</color>
+    <color name="txt_name_color">#535353</color>
+    <color name="txt_content_color">#898989</color>
+        
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_act_items">
+        <item>popupwindow下拉框</item>
+        <item>番茄快点app点菜效果</item>
+        <item>handler postDelayed</item>
+        <item>自增长圆形进度条</item>
+        <item>翻转动画</item>
+        <item>上拉刷新</item>
+        <item>截屏</item>
+    </string-array>
+    <string-array name="activity_anim2_arrays">
+        <item>水煮鱼</item>
+        <item>青椒肉丝</item>
+        <item>京式小炒肉</item>
+        <item>豆汤煮豆苗</item>
+        <item>脆皮乳鸽</item>
+        <item>AAAAAAA</item>
+        <item>BBBBBBBB</item>
+        <item>CCCCCCCCCC</item>
+        <item>DDDDDDDDDDD</item>
+        <item>EEEEEEE</item>
+        <item>FFFFFFFFFFFF</item>
+        <item>GGGGGGGG</item>
+        <item>HHHHHH</item>
+        <item>FFFFFFFFFFFF</item>
+        <item>JJJJJJJJJ</item>
+        <item>WWWWWWWWWW</item>
+        <item>TTTTTTT</item>
+        <item>00000000000</item>
+    </string-array>
+</resources>

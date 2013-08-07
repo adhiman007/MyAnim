@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:background="#535353">
+ 
+    <Button
+        android:id="@+id/btn_result1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+        android:drawableLeft="@drawable/btn_transport_all"
+        android:background="@drawable/btn_big_bg_selector"
+        android:text="@string/hunhe" />
+    <Button
+        android:id="@+id/btn_result2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+        android:drawableLeft="@drawable/btn_transport_fight"
+        android:background="@drawable/btn_big_bg_selector"
+        android:text="@string/feiji" />
+    <Button
+        android:id="@+id/btn_result3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dip"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+        android:drawableLeft="@drawable/btn_transport_train"
+        android:background="@drawable/btn_big_bg_selector"
+        android:text="@string/huoche" />
+    <Button
+        android:id="@+id/btn_result4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+	    android:paddingLeft="10dip"
+	    android:paddingRight="10dip"
+        android:drawableLeft="@drawable/btn_transport_bus"
+        android:background="@drawable/btn_big_bg_selector"
+        android:text="汽车" />
+</LinearLayout>
