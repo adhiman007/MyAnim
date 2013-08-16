@@ -8,6 +8,7 @@
         <item>翻转动画</item>
         <item>上拉刷新</item>
         <item>截屏</item>
+        <item>吸入动画</item>
     </string-array>
     <string-array name="activity_anim2_arrays">
         <item>水煮鱼</item>
