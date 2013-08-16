@@ -10,8 +10,10 @@ package com.song.myAnim;
 public final class R {
     public static final class anim {
         public static final int grow_from_top=0x7f040000;
-        public static final int refreshable_list_rotate=0x7f040001;
-        public static final int shrink_from_bottom=0x7f040002;
+        public static final int layout_small_2_big=0x7f040001;
+        public static final int refreshable_list_rotate=0x7f040002;
+        public static final int shrink_from_bottom=0x7f040003;
+        public static final int small_2_big=0x7f040004;
     }
     public static final class array {
         public static final int activity_anim2_arrays=0x7f060001;
@@ -96,7 +98,10 @@ public final class R {
         public static final int iv_screen=0x7f090011;
         public static final int ll_RangeSeekBar=0x7f09000e;
         public static final int lv_content=0x7f090002;
-        public static final int menu_settings=0x7f09001d;
+        public static final int menu_inhale_down=0x7f09001d;
+        public static final int menu_inhale_left=0x7f09001f;
+        public static final int menu_inhale_right=0x7f090020;
+        public static final int menu_inhale_up=0x7f09001e;
         public static final int my_battery_progress=0x7f090009;
         public static final int my_progress=0x7f09000a;
         public static final int refreshable_list_arrow=0x7f09001a;

@@ -74,6 +74,8 @@ public class MainActivity extends Activity {
 					intent=new Intent(MainActivity.this,Anim6Activity.class);
 				}else if(position==7){//截屏
 					intent=new Intent(MainActivity.this,Anim7Activity.class);
+				}else if(position==8){//吸入动画
+					intent=new Intent(MainActivity.this,Anim8Activity.class);
 				}
 				if(intent!=null){
 					MainActivity.this.startActivity(intent);
