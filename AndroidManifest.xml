@@ -29,6 +29,7 @@
         <activity android:name=".activity.Anim6Activity"></activity>
         <activity android:name=".activity.Anim7Activity"></activity>
         <activity android:name=".activity.Anim8Activity"></activity>
+        <activity android:name=".activity.Anim9Activity"></activity>
     </application>
 
 </manifest>

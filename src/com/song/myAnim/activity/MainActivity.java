@@ -76,6 +76,8 @@ public class MainActivity extends Activity {
 					intent=new Intent(MainActivity.this,Anim7Activity.class);
 				}else if(position==8){//吸入动画
 					intent=new Intent(MainActivity.this,Anim8Activity.class);
+				}else if(position==9){//可拖动listview
+					intent=new Intent(MainActivity.this,Anim9Activity.class);
 				}
 				if(intent!=null){
 					MainActivity.this.startActivity(intent);
