@@ -39,6 +39,8 @@ public class Anim7Activity extends Activity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				  Bitmap screen_bitmap = ScreenShot.takeScreenShot(Anim7Activity.this);
+				  
+				  ScreenShot.savePic(Anim7Activity.this,screen_bitmap,"abc001.png");
 				  iv_screen.setImageBitmap(screen_bitmap);
 			}
 		});

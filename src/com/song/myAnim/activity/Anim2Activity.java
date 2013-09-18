@@ -60,9 +60,9 @@ public class Anim2Activity extends Activity {
 				mSoundPool.play(streamID, 1, 1, 0, 0, 1);
 				tv_dest = (TextView) Anim2Activity.this
 						.findViewById(R.id.tv_dest);
-				TextView tv_head = (TextView) view.findViewById(R.id.tv_head);
+				TextView tv_current = (TextView) view.findViewById(R.id.tv_head);
 
-				AnimationSet setAnim = MyAnimUtil.setAnim(tv_head, tv_dest);
+				AnimationSet setAnim = MyAnimUtil.setAnim(tv_current, tv_dest);
 				tv_src.startAnimation(setAnim);
 
 			}
