@@ -3,7 +3,6 @@ package com.song.myAnim.activity;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Bundle;
@@ -17,7 +16,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.song.myAnim.R;
 import com.song.myAnim.util.MyAnimUtil;
@@ -32,7 +30,7 @@ public class Anim2Activity extends Activity {
 	// MediaPlayer mPlayer_selected;
 	SoundPool mSoundPool;
 	int streamID;
-
+ 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
